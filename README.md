@@ -1,2 +1,2 @@
 # Lunar-Sample-Collection-Device
-CAD engineering design project inspired by NASA Micro-G Next challenges for the Artemis Program
+CAD engineering design project inspired by NASA Micro-G Next challenges for the Artemis Program. This project is a mechanical device made for quick data collection during lunar missions. There are no electrical elements, as this is intended to be a purely mechanical engineering project. Solidworks simulations were conducted with different materials to determine the most feasible option. This repository is a showcase of those simulation results in detail to give a glimpse of the project's process.
